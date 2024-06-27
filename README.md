@@ -1,4 +1,5 @@
-![download](https://github.com/umutokcurmr/starup-portfoyum/assets/132665364/958ac6ed-cf2c-405b-837a-6aa751eaaf7d)
+![download](https://github.com/umutokcurmr/startup-portfoyum/assets/132665364/d5fe22ea-3eac-4490-82cf-4e8a77b0e4b0)
+
 # startup-portfoyum
 # yeni kurulan girişimlere fon sağlıyorum
 import matplotlib.pyplot as plt
