@@ -13,7 +13,7 @@ ax1.pie(sizes, labels=labels, colors=colors, autopct='%1.1f%%',
 # Grafiğin eşit daire şeklinde görünmesi için
 ax1.axis('equal')
 # Başlık ekleme
-plt.title('STARUP PORTFÖYÜM')
+plt.title('STARTUP PORTFÖYÜM')
 # Görseli kaydetme
 # Grafik gösterimi
 plt.show()
