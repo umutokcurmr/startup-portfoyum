@@ -1,5 +1,5 @@
 ![download](https://github.com/umutokcurmr/starup-portfoyum/assets/132665364/958ac6ed-cf2c-405b-837a-6aa751eaaf7d)
-# starup-portfoyum
+# startup-portfoyum
 # yeni kurulan girişimlere fon sağlıyorum
 import matplotlib.pyplot as plt
 # Veri
