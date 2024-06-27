@@ -1,7 +1,8 @@
 
 # starup-portfoyum
 ![download](https://github.com/umutokcurmr/starup-portfoyum/assets/132665364/958ac6ed-cf2c-405b-837a-6aa751eaaf7d)
-yeni kurulan girişimlere fon sağlıyorum
+#yeni kurulan girişimlere fon sağlıyorum
+
 import matplotlib.pyplot as plt
 # Veri
 labels = ['Mapla\nFonlaBüyüsün', 'Atronmac\nFonbulucu', 'Mua\nValü', 'Jidoka\nFonangels']
